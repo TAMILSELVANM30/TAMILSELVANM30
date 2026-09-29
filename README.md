@@ -1,7 +1,7 @@
 <div align="center">
 👋 Hi, I'm Tamil Selvan
 💻 Developer | 🗄️ SQL & Database Enthusiast | 🤖 AI & Full-Stack Developer
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Building+useful+software+and+tools;SQL+%7C+Python+%7C+TypeScript+%7C+Kotlin;Learning%2C+building%2C+and+improving+every+day" alt="Typing SVG" /> <br> <a href="https://github.com/TAMILSELVANM30"> <img src="https://komarev.com/ghpvc/?username=TAMILSELVANM30&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views"/> </a> <a href="https://github.com/TAMILSELVANM30?tab=followers"> <img src="https://img.shields.io/github/followers/TAMILSELVANM30?style=for-the-badge&color=236AD3&label=FOLLOWERS" alt="GitHub followers"/> </a> <a href="https://github.com/TAMILSELVANM30?tab=repositories"> <img src="https://img.shields.io/github/stars/TAMILSELVANM30?style=for-the-badge&color=F8D866&label=STARS" alt="GitHub stars"/> </a> </div>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Building+useful+software+and+tools;SQL+%7C+Python+%7C+SpringBoot+%7C+Java;Learning%2C+building%2C+and+improving+every+day" alt="Typing SVG" /> <br> <a href="https://github.com/TAMILSELVANM30"> <img src="https://komarev.com/ghpvc/?username=TAMILSELVANM30&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views"/> </a> <a href="https://github.com/TAMILSELVANM30?tab=followers"> <img src="https://img.shields.io/github/followers/TAMILSELVANM30?style=for-the-badge&color=236AD3&label=FOLLOWERS" alt="GitHub followers"/> </a> <a href="https://github.com/TAMILSELVANM30?tab=repositories"> <img src="https://img.shields.io/github/stars/TAMILSELVANM30?style=for-the-badge&color=F8D866&label=STARS" alt="GitHub stars"/> </a> </div>
 🚀 About Me
 I'm a developer interested in building practical software, automation tools, database solutions, and AI-powered applications.
 
@@ -9,7 +9,7 @@ I'm a developer interested in building practical software, automation tools, dat
 🗄️ Interested in SQL, databases, performance, and backend systems
 🐍 Building applications with Python
 ⚡ Exploring TypeScript, JavaScript, and modern web development
-📱 Interested in Android/Kotlin development
+📱 Interested in Android development
 🤖 Exploring AI, automation, and developer productivity
 🌱 Always learning and experimenting with new technologies
 💡 I enjoy turning real-world problems into simple technical solutions
