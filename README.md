@@ -1,6 +1,10 @@
 
 <!-- ================= MADARA UCHIHA THEME ================= -->
+<div align="center">
 
+<img src="./madara-profile.png" width="100%"/>
+
+</div>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:450000,65:8B0000,100:FF0000&height=240&section=header&text=Tamil%20Selvan&fontSize=55&fontColor=FFFFFF&fontAlignY=36&desc=Developer%20%7C%20AI%20%26%20Full-Stack%20Enthusiast&descAlignY=57&descSize=19&animation=fadeIn" width="100%"/>
